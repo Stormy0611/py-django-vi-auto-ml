@@ -1,0 +1,11 @@
+# Python Virtual Environment
+venv/
+
+# Cache
+__pycache__/
+
+# Django Migration files
+migrations/
+
+# Data
+*.csv
